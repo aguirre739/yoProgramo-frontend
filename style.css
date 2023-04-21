@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.navbar-bg{
+    background-color: #2e3033;
+}
+
+.card-ancho{
+    width: 30%;
+}
+
+.footer-bg{
+    background-color: #0B3345;
+    color: whitesmoke;
+}
